@@ -42,4 +42,4 @@ Running the Application
 1. Start the development server: npm start
 
 
-Thank you so Much for Readung this file.
+Thank you so Much for Reading this file.
